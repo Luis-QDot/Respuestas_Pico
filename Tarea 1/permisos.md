@@ -1,7 +1,7 @@
 Nos conectamos con las credenciales
 
 
-
+Solucion
 
 picoplayer@challenge:/$ ls /
 bin   challenge  etc   lib    lib64   media  opt   root  sbin  sys  usr

@@ -6,6 +6,10 @@ Nos da algunas pistas
 - ¿Te resulta familiar esta codificación?
 - `str_xor`No es necesario realizar ingeniería inversa a la función para este desafío.
 -
+
+Soluciones
+
+
 asi que procedemosa  descargar nuestro archivo con wget 
 
 usamos nano para inspeccionar el codigo y nos arroja el siguiente texto 
@@ -40,3 +44,6 @@ La contraseña está codificada usando valores hexadecimales, que se convierten 
 **BANDERA:**  
 ==picoCTF{tr45h_51ng1ng_489dea9a}==
 
+
+Referencias
+https://www.youtube.com/watch?v=ykhTVuWEpIU&pp=ygUSUFcgQ3JhY2sgMiBwaWNvY3Rm

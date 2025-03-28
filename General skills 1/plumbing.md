@@ -2,6 +2,9 @@
 
 Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
 
+
+Solucion
+
 nos conectamos a la direccion con el puerto que nos asiga usando nc 
 Y nos da mucho texto 
 Again, I really don't think this is a flag
@@ -1073,3 +1076,6 @@ Y nos da nuestra bande
 - **`grep [texto]`** – Busca una cadena específica dentro del contenido del archivo.
 BANDERA
 ==picoCTF{digital_plumb3r_ea8bfec7}==
+
+Referencias
+https://www.youtube.com/watch?v=9zXi7mIyoFU&pp=ygURcGx1bWJpbmcgIHBpY29jdGY%3D

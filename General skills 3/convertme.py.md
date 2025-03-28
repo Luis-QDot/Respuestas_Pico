@@ -9,6 +9,8 @@ pistas
 -Type everything after the dollar sign in the webshell: `$ wget` , then paste the link after the space after `wget` and press enter. This will download the script for you in the webshell so you can run it!
 
 
+Soluciones
+
 
 Empezamos descargando nuestro archivo
 
@@ -28,3 +30,6 @@ solo contestamos la pregunta y nos dio la bandera
 
 BANDERA
 ==picoCTF{4ll_y0ur_b4535_722f6b39}==
+
+Referencias
+https://www.youtube.com/watch?v=Zcurko-tYrI&pp=ygUUY29udmVydG1lLnB5IHBpY29jdGY%3D

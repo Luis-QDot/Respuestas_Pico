@@ -4,6 +4,9 @@ Unzip this archive and find the flag.
 
 - [Download zip file](https://artifacts.picoctf.net/c/503/big-zip-files.zip)
 -
+Solucion
+
+
 Primero vamos a abrir nustra consola y descargar el archivo con wget
 y al hacer un ls para ver los archivos nos damos cuenta que tenemos el zip descargado 
 Luiscat02-picoctf@webshell:~$ ls
@@ -33,3 +36,7 @@ Luiscat02-picoctf@webshell:~$
 
  BANDERA
 ==`picoCTF{gr3p_15_m4g1c_ef8790dc}`==
+
+
+Referencias
+https://www.youtube.com/watch?v=dQA2DlA_3Oo&pp=ygUPQmlnIFppcCBwaWNvY3Rm

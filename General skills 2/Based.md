@@ -2,6 +2,9 @@
 
 To get truly 1337, you must understand different data encodings, such as hexadecimal or binary. Can you get the flag from this program to prove you are on the way to becoming 1337? Connect with `nc jupiter.challenges.picoctf.org 29221`.
 
+
+Solucion
+
 Esto va a ser una carrera de  velocidad al decifrar las palabras clabes, por lo cual vamos a usar cyberchef para decifrar todo
 
 
@@ -43,3 +46,5 @@ Flag: picoCTF{learning_about_converting_values_00a975ff}
 BANDERA
 ==picoCTF{learning_about_converting_values_00a975ff}==
 
+Referencias
+https://www.youtube.com/watch?v=EVomRoUHD-M&pp=ygUNQmFzZWQgcGljb2N0ZtIHCQlPCQGHKiGM7w%3D%3D

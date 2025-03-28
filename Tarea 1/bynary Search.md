@@ -29,3 +29,6 @@ Connection to atlas.picoctf.net closed.
 Luiscat02-picoctf@webshell:~$ 
 
 se resolvio usando la busqueda binaria que como lo eh visto en clase es agarrar un numero a la mitad del arreglo ordenado y luego si es mas alto pues 1/4 del problema original se le suma, si da mas, se suman los dos numeros entre los cuales esta y se divide entre dos y asi susesivamente hasta llegar al numero que buscamos 
+Referencias
+
+https://www.youtube.com/watch?v=0qzEqPWw6Oc&pp=ygUSYnluYXJ5IFNlYXJjaCBwaWNv

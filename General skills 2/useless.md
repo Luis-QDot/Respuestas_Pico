@@ -14,6 +14,8 @@ Username: picoplayer
 Password: password
 ```
 estas son las credenciales con las que vamos a iniciar
+**Solucion**
+
 
 luego al hacer ls vemos un programa asi que lo ejecutamos
 luego entramos a ver como es el programa y como esta escrito y ahi en ese programa esta nuestra bandera
@@ -67,3 +69,6 @@ picoplayer@challenge:~$
 
 **BANDERA:**  
 ==picoCTF{us3l3ss_ch4ll3ng3_3xpl0it3d_6194}==
+
+Referencias
+https://www.youtube.com/watch?v=Pb-wTPsqr4M&pp=ygUQdXNlbGVzcyAgcGljb2N0Zg%3D%3D

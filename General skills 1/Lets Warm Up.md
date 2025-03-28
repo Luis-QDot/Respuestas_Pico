@@ -2,6 +2,9 @@
 
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
 
+
+Solucion
+
 vamos a usar el comando de python para adyudarnos en este problema
 escribimos
 python 
@@ -20,3 +23,7 @@ y nos arroja que la bandera es la letra p, asi que solo le agregamos la bandera 
 - **`.decode()`** – Convierte los bytes resultantes en una cadena de texto.
 Bandera
 ==picoCTF{p}==
+
+
+Referencias
+https://www.youtube.com/watch?v=1dSt9Tksv2c&pp=ygUUTGV0cyBXYXJtIFVwIHBpY29jdGY%3D

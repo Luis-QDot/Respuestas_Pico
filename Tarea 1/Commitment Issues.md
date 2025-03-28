@@ -1,3 +1,9 @@
+
+
+Solucion
+
+
+
 Primero obtenemos nuestro challenge con wget y la direccion del zip https://artifacts.picoctf.net/c_titan/75/challenge.zip
 
 
@@ -25,3 +31,6 @@ index ed59373..d552d1e 100644
 
 
 Teniendo ahi la bandera 
+
+Referencias
+https://www.youtube.com/watch?v=_CH5IQewkzw&pp=ygUhQ29sbGFib3JhdGl2ZSBEZXZlbG9wbWVudCBwaWNvY3Rm

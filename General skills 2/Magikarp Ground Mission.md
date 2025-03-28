@@ -69,3 +69,6 @@ picoCTF{xxsh_0ut_0f_\/\/4t3r_71be5264}
 ### BANDERA
 
 ==`picoCTF{xxsh_0ut_0f_\/\/4t3r_71be5264}`==
+
+Referencias
+https://www.youtube.com/watch?v=duEwM4xC-dw&pp=ygUgTWFnaWthcnAgR3JvdW5kIE1pc3Npb24gIHBpY29jdGY%3D

@@ -1,6 +1,7 @@
 #### Description
 
 Can you find the flag in [file](https://jupiter.challenges.picoctf.org/static/fae9ac5267cd6e44124e559b901df177/strings) without running it?
+Soluciones
 
 Primero obtenemos nuestro archivo del link con wget
 hacemos un strings a nuestro strings y nos da muchisimo texto, a lo cual vamos a filtrar todo el texto usando grep y vamos a buscar la bandera
@@ -16,3 +17,7 @@ Y ahi esta nuestra bandera
 
 **BANDERA:**  
 ==picoCTF{5tRIng5_1T_7f766a23}==
+
+Referencias
+https://www.youtube.com/watch?v=WwMY-EHGt3k&pp=ygUSc3RyaW5ncyBpdCBwaWNvY3Rm
+

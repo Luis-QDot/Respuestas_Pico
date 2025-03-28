@@ -9,6 +9,9 @@ Password: ENAFb6zfzn
 ``` 
 usando ssh picoplayer@saturn... -p (puer
 
+
+Solucion
+
 Luiscat02-picoctf@webshell:~$ ssh picoplayer@saturn.picoctf.net -p 53223
 The authenticity of host '[saturn.picoctf.net]:53223 ([13.59.203.175]:53223)' can't be established.
 ED25519 key fingerprint is SHA256:dMTscRrUiURy7uMu5eGWwEKdd2FzqLzx6LfWhssWnNQ.
@@ -45,6 +48,7 @@ picoplayer@challenge:~$ cat /etc/crontab
 # picoCTF{Sch3DUL7NG_T45K3_L1NUX_1d781160}
 picoplayer@challenge:~$ 
 
-
+Referencias 
+https://www.youtube.com/watch?v=GcdVd415uX8&pp=ygUOQ2hyb25vIHBpY29jdGY%3D
 
 

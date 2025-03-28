@@ -4,6 +4,7 @@ Can you look at the data in this binary: [static](https://mercury.picoctf.net/s
 
 Primero vamos a obtener los archivos de los links con wget 
 
+Solucion
 
 Luiscat02-picoctf@webshell:~$ chmod +x ltdis.sh 
 Luiscat02-picoctf@webshell:~$ ./ltdis.sh static
@@ -29,3 +30,7 @@ Luiscat02-picoctf@webshell:~$
 y ahi tenemos la bandera
 BANDERA
 ==picoCTF{d15a5m_t34s3r_6f8c8200}==
+
+
+Referencias
+https://www.youtube.com/watch?v=cVpei_-wGMQ&pp=ygUiU3RhdGljIGFpbid0IGFsd2F5cyBub2lzZSAgcGljb2N0Zg%3D%3D

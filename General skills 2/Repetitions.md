@@ -2,6 +2,10 @@
 
 Can you make sense of this file?Download the file [here](https://artifacts.picoctf.net/c/471/enc_flag).
 
+
+Soluciones
+
+
 Empezamos descargando el archivo con nuestra compu ya que es un archivo
 y al abrirlo nos aparece esto 
 
@@ -23,3 +27,7 @@ picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_9b59b35c}
 
 BANDERA
 ==picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_9b59b35c}==
+
+
+Referencias
+https://www.youtube.com/watch?v=SgnpgWKoczw&pp=ygUTUmVwZXRpdGlvbnMgcGljb2N0Zg%3D%3D

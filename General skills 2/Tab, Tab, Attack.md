@@ -1,6 +1,9 @@
 #### Description
 
 Using tabcomplete in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filenames: [Addadshashanammu.zip](https://mercury.picoctf.net/static/fe16c756149cfa85f23e73cd9dbd6a25/Addadshashanammu.zip)
+**Solucion**
+
+
 
 Y vamos a usar una pista que nos da la cual es 
 After `unzip`ing, this problem can be solved with 11 button-presses...(mostly Tab)...
@@ -66,3 +69,7 @@ o`
 - La clave de este reto fue utilizar la función de Tab-completion para navegar rápidamente por una estructura de directorios larga y compleja.
 BANDERA
 ==picoCTF{l3v3l_up!_t4k3_4_r35t!_76266e38}==
+
+
+referencias
+https://www.youtube.com/watch?v=2-8lETOcLBM&pp=ygUYVGFiLCBUYWIsIEF0dGFjayBwaWNvY3Rm

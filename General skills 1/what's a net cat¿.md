@@ -2,6 +2,8 @@
 
 Using netcat (nc) is going to be pretty important. Can you connect to `jupiter.challenges.picoctf.org` at port `64287` to get the flag?
 
+Solucion
+
 vamos a hacerle un nc con la info que nos da
 y al hacerlo con el puerto que nos da nos arroja la bandera 
 Luiscat02-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 64287
@@ -16,3 +18,7 @@ picoCTF{nEtCat_Mast3ry_284be8f7}
 
 BANDERA
 ==picoCTF{nEtCat_Mast3ry_284be8f7}==
+
+
+Referencias
+https://www.youtube.com/watch?v=NqD0U5YZpgE&pp=ygUbd2hhdCdzIGEgbmV0IGNhdMK_ICBwaWNvY3Rm

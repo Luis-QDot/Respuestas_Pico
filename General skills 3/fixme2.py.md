@@ -7,6 +7,9 @@ algunas pistas son
 -Para ver el archivo en el webshell, haga lo siguiente:`$ nano fixme2.py`
 `str_xor`No es necesario realizar ingeniería inversa a la función para este desafío.
 
+Soluciones
+
+
 asi que empezamos descargando nuestro archivo con wget
 lo empezamos ejecutando y nos da este error 
 Luiscat02-picoctf@webshell:~$ python3 fixme2.py 
@@ -32,3 +35,6 @@ Luiscat02-picoctf@webshell:~$
 
 Bandera
 ==picoCTF{3qu4l1ty_n0t_4551gnm3nt_e8814d03}==
+
+Referencais
+https://www.youtube.com/watch?v=7nlpXkoB7o0&pp=ygUSZml4bWUyLnB5ICBwaWNvY3Rm

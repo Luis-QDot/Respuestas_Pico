@@ -3,6 +3,9 @@ Para este ejercicio vamos a abrir la consola
 
 Can you find the flag in [file](https://jupiter.challenges.picoctf.org/static/315d3325dc668ab7f1af9194f2de7e7a/file)? This would be really tedious to look through manually, something tells me there is a better way.
 
+
+Solucion
+
 Copiamos el lnk del archivo y damos wget para descargarlo 
 Luiscat02-picoctf@webshell:~$ wget https://jupiter.challenges.picoctf.org/static/315d3325dc668ab7f1af9194f2de7e7a/file
 --2025-03-14 17:15:52--  https://jupiter.challenges.picoctf.org/static/315d3325dc668ab7f1af9194f2de7e7a/file

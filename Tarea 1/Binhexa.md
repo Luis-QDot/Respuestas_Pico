@@ -54,3 +54,7 @@ Luiscat02-picoctf@webshell:~$
 
 Se ayudo usando la siguiente pagina 
 https://www.rapidtables.com/calc/math/binary-calculator.html?num1=00101111&op=9&num2=1
+
+
+Referencias 
+https://www.youtube.com/watch?v=6qASsWoyw7g&pp=ygUMQmluaGV4YSBwaWNv

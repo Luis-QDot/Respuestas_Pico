@@ -3,7 +3,7 @@
 Our flag printing service has started glitching!
 
 Additional details will be available after launching your challenge instance.
-
+Solucion 
 
 le damos a empezar y nos dice 
 Our flag printing service has started glitching!`$ nc saturn.picoctf.net 52362`
@@ -24,3 +24,8 @@ y nos arroja nuestra bandera ya sin glitch
 - `chr(0x62)` → Convierte el valor hexadecimal `0x62` en su carácter ASCII correspondiente (`b`).
 Bandera
 ==picoCTF{gl17ch_m3_n07_bda68f75}==
+
+
+
+Referencias
+https://www.youtube.com/watch?v=jxrZ2B0ohEg&pp=ygUSR2xpdGNoIGNhdCBwaWNvY3Rm

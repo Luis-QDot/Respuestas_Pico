@@ -2,6 +2,7 @@
 
 There is a nice program that you can talk to by using this command in a shell: `$ nc mercury.picoctf.net 22342`, but it doesn't speak English...
 
+Solucion
 
 Vamos a poner el comando que viene ahi en nuetra consola
 y nos da todos estos numeros 
@@ -59,3 +60,6 @@ picoCTF{g00d_k1tty!_n1c3_k1tty!_5fb5e51d}
     - **"From Decimal"** – Convierte números ASCII a texto.
 BANDERA
 ==picoCTF{g00d_k1tty!_n1c3_k1tty!_5fb5e51d}==
+
+Referencias
+https://www.youtube.com/watch?v=yG_Kp_49jgY&pp=ygUUTmljZSBuZXRjYXQgIHBpY29jdGY%3D

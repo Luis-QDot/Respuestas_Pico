@@ -16,6 +16,8 @@ Author: picoCTF <ops@picoctf.com>
 Date:   Sat Mar 9 21:09:01 2024 +0000
 
     create top secret project
+Referencias 
+https://www.youtube.com/watch?v=8Q8jiZHGfJI&pp=ygUPQmxhbWUgR2FtZSBwaWNv0gcJCU8JAYcqIYzv
 
 
 

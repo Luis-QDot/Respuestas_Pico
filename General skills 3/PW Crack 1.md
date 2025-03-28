@@ -4,6 +4,8 @@
 
 Primero vamos a descargar los links que vienen ahi con wget
 
+Solucion
+
 
 Primero vamos a inspeccionar el codigo con el comando nano 
  y justo aqui viene la contraseña para la bandera
@@ -28,3 +30,7 @@ picoCTF{545h_r1ng1ng_1b2fd683}
 - La función `str_xor` se usa para descifrar la bandera utilizando la contraseña.
 **BANDERA:**  
 ==picoCTF{545h_r1ng1ng_1b2fd683}==
+
+
+Referencias
+https://www.youtube.com/watch?v=9vm_Uj60a7o&pp=ygUSUFcgQ3JhY2sgMSBwaWNvY3Rm

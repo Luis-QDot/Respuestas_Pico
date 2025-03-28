@@ -3,6 +3,8 @@
 Unzip this archive and find the file named 'uber-secret.txt'
 
 - [Download zip file](https://artifacts.picoctf.net/c/501/files.zip)
+Solucion
+
 
 Primero descargamos nuestro archivo con wget
 ahora vamos a hacer un ls paa ver nuestro archivo 
@@ -64,3 +66,5 @@ Luiscat02-picoctf@webshell:~$
 
 
 ==`picoCTF{f1nd_15_f457_ab443fd1}`==
+Referencias
+https://www.youtube.com/watch?v=AC3TGqhFGTw&pp=ygUTRmlyc3QgRmluZCAgcGljb2N0ZtIHCQlPCQGHKiGM7w%3D%3D

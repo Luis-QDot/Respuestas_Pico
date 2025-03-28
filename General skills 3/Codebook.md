@@ -6,6 +6,7 @@ Run the Python script `code.py` in the same directory as `codebook.txt`.
 - [Download codebook.txt](https://artifacts.picoctf.net/c/3/codebook.txt)
 nos da como pistas
 On the webshell, use `ls` to see if both files are in the directory you are in
+Solucion
 
 
 Asi que primero descarguemos nuestros archivos con wget
@@ -26,3 +27,5 @@ picoCTF{c0d3b00k_455157_197a982c}
 
 **BANDERA:**  
 ==picoCTF{c0d3b00k_455157_197a982c}==
+Referencias
+https://www.youtube.com/watch?v=tLHie8q6DQY&pp=ygUQQ29kZWJvb2sgcGljb2N0Zg%3D%3D

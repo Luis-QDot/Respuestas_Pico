@@ -1,5 +1,6 @@
 Empezamos descargando nuestro archivo con 
 wget https://artifacts.picoctf.net/c_titan/177/challenge.zip
+Solucion
 
 Al descomprimir usamos un 
 Luiscat02-picoctf@webshell:~/drop-in$ git  branch -a 
@@ -59,3 +60,5 @@ w0rk_7ae8dd33
 
 picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_7ae8dd33}
 
+REferencias
+https://www.youtube.com/watch?v=_CH5IQewkzw&pp=ygUhQ29sbGFib3JhdGl2ZSBEZXZlbG9wbWVudCBwaWNvY3Rm
